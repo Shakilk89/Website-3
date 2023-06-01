@@ -1,0 +1,71 @@
+.navbar{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+}
+
+.banner{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+}
+
+.banner a img{
+    width: 50px;
+}
+
+
+
+.title::after{
+    content: '';
+    display: block;
+    background-color: #7b1798;
+    height: 5px;
+    width: 200px;
+    margin: auto;
+    transform: translateY(25px);
+    
+}
+
+.btn{
+    border-radius: 20px;
+    color: white;
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+}
+
+.user-details{
+    border-left: 4px solid  #7b1798;
+}
+
+.user-details img{
+    width: 70px;
+}
+
+#contact{
+    background: #f8f9fa;
+}
+
+#social-media img{
+    width: 60px;
+    transition: .4s;
+}
+
+#social-media img:hover{
+    transform:translateY(-10px)
+}
+
+.footer{
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+}
+
+.location, .call, .email {
+    width: 30px;
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important; 
+   
+}
+
+.btn-primary{
+    width: 100px;
+    background-image: linear-gradient(to right, #a517ba,#5f1782)!important;
+    border: none; 
+}
+
+
+
+
